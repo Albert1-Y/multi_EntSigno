@@ -2,8 +2,6 @@
 //  main.cpp
 //  multi_EntSigno
 //
-//  Created by Albert Yerem Caceres Marca on 8/04/25.
-//
 #include <iostream>
 #include <vector>
 #include <string>
