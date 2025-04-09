@@ -1,5 +1,12 @@
 # Algoritmo de Booth - Pruebas de Funcionamiento
+## Descripción Breve
+Este programa implementa el algoritmo de Booth para realizar multiplicaciones con números binarios en representación de complemento a 2. El sistema incluye:
 
+- Conversión automática entre formatos decimal y binario
+- Visualización paso a paso del proceso de multiplicación
+- Soporte para números positivos y negativos
+- Validación de resultados
+  
 ## Casos de Prueba con Resultados Esperados
 
 ### Prueba 1: 4 bits (3 × -2)
